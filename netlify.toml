@@ -1,0 +1,19 @@
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/goit-js-hw-08/01-gallery.html"
+  to = "/01-gallery.html"
+  status = 200
+
+[[redirects]]
+  from = "/goit-js-hw-08/02-video.html"
+  to = "/02-video.html"
+  status = 200
+
+[[redirects]]
+  from = "/goit-js-hw-08/03-feedback.html"
+  to = "/03-feedback.html"
+  status = 200
