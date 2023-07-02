@@ -5,19 +5,19 @@
   force = true
 
 [[redirects]]
-  from = "/goit-js-hw-08/01-gallery.html"
-  to = "/goit-js-hw-08/01-gallery.html"
+  from = "/*"
+  to = "/01-gallery.html"
   status = 200
   force = true
 
 [[redirects]]
-  from = "/goit-js-hw-08/02-video.html"
+  from = "/*"
   to = "/goit-js-hw-08/02-video.html"
   status = 200
   force = true
 
 [[redirects]]
-  from = "/goit-js-hw-08/03-feedback.html"
+  from = "/*"
   to = "/goit-js-hw-08/03-feedback.html"
   status = 200
   force = true
