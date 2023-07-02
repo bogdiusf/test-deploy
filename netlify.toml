@@ -1,5 +1,9 @@
 [[redirects]]
   from = "/*"
-  to = "/*.html"
+  to = "/index.html"
   status = 200
-  force = true
+
+[[redirects]]
+  from = "/*"
+  to = "/goit-js-hw-08/01-gallery.html"
+  status = 200
