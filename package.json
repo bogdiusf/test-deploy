@@ -1,10 +1,8 @@
-
-
 {
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://florinbejera2002.github.io/goit-js-hw-08/",  
+  "homepage": "https://florinbejera2002.github.io/goit-js-hw-08/",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
@@ -21,6 +19,7 @@
   },
   "dependencies": {
     "@vimeo/player": "^2.20.1",
+    "caniuse-lite": "^1.0.30001509",
     "lodash.throttle": "^4.1.1",
     "modern-normalize": "^1.1.0",
     "simplelightbox": "^2.14.1"
